@@ -1,0 +1,16 @@
+C:\Users\aysenurfirat\Documents\GitHub_Projects\BookTracking\BookTracking\bin\Debug\BookTracking.exe.config
+C:\Users\aysenurfirat\Documents\GitHub_Projects\BookTracking\BookTracking\bin\Debug\BookTracking.exe
+C:\Users\aysenurfirat\Documents\GitHub_Projects\BookTracking\BookTracking\bin\Debug\BookTracking.pdb
+C:\Users\aysenurfirat\Documents\GitHub_Projects\BookTracking\BookTracking\obj\Debug\BookTracking.csproj.AssemblyReference.cache
+C:\Users\aysenurfirat\Documents\GitHub_Projects\BookTracking\BookTracking\obj\Debug\BookTracking.csproj.SuggestedBindingRedirects.cache
+C:\Users\aysenurfirat\Documents\GitHub_Projects\BookTracking\BookTracking\obj\Debug\BookTracking.author.resources
+C:\Users\aysenurfirat\Documents\GitHub_Projects\BookTracking\BookTracking\obj\Debug\BookTracking.book.resources
+C:\Users\aysenurfirat\Documents\GitHub_Projects\BookTracking\BookTracking\obj\Debug\BookTracking.Form1.resources
+C:\Users\aysenurfirat\Documents\GitHub_Projects\BookTracking\BookTracking\obj\Debug\BookTracking.genre.resources
+C:\Users\aysenurfirat\Documents\GitHub_Projects\BookTracking\BookTracking\obj\Debug\BookTracking.Properties.Resources.resources
+C:\Users\aysenurfirat\Documents\GitHub_Projects\BookTracking\BookTracking\obj\Debug\BookTracking.selection.resources
+C:\Users\aysenurfirat\Documents\GitHub_Projects\BookTracking\BookTracking\obj\Debug\BookTracking.csproj.GenerateResource.cache
+C:\Users\aysenurfirat\Documents\GitHub_Projects\BookTracking\BookTracking\obj\Debug\BookTracking.csproj.CoreCompileInputs.cache
+C:\Users\aysenurfirat\Documents\GitHub_Projects\BookTracking\BookTracking\obj\Debug\BookTracking.exe
+C:\Users\aysenurfirat\Documents\GitHub_Projects\BookTracking\BookTracking\obj\Debug\BookTracking.pdb
+C:\Users\aysenurfirat\Documents\GitHub_Projects\BookTracking\BookTracking\obj\Debug\BookTracking.publisher.resources
